@@ -497,16 +497,10 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-<project path="platform_manifest" name="SlimRoms/platform_manifest" remote="github" revision="lp5.0" />
+<project path="candy5" name="errantzebra845/candy" remote="github" revision="c5.2" />
 
-  <!-- New Additions for slim -->
-  <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="lp5.0" />
-
-  <!-- Slim OTA -->
-  <project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
-
-  <!-- Slim file manager -->
-  <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="lp5.0" />
+  <!-- New Additions for candy -->
+  <project path="vendor/candy5" name="errantzebra845/vendor_candy5" remote="github" revision="c5.2" />
 
   <!-- SlimLauncher -->
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" remote="github" revision="lp5.0" />
