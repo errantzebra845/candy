@@ -500,7 +500,7 @@
 <project path="candy5" name="errantzebra845/candy" remote="github" revision="c5.2" />
 
   <!-- New Additions for candy -->
-  <project path="vendor/candy" name="errantzebra845/vendor_candy" remote="github" revision="c5.2" />
+  <project path="vendor/candy5" name="errantzebra845/vendor_candy" remote="github" revision="c5.2" />
 
   <!-- SlimLauncher -->
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" remote="github" revision="lp5.0" />
